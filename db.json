@@ -1,0 +1,9 @@
+{
+  "players": [
+    { "id": 1, "name": "ผู้เล่น 1", "chips": 100 },
+    { "id": 2, "name": "ผู้เล่น 2", "chips": 150 }
+  ],
+  "games": [
+    { "id": 1, "status": "waiting", "players": [1, 2] }
+  ]
+}
